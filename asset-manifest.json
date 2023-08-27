@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontLar/static/css/main.1f521d52.css",
+    "main.js": "/frontLar/static/js/main.b86ba66f.js",
+    "static/media/logo.png": "/frontLar/static/media/logo.f4b49d93ba7ae4937a0f.png",
+    "index.html": "/frontLar/index.html",
+    "main.1f521d52.css.map": "/frontLar/static/css/main.1f521d52.css.map",
+    "main.b86ba66f.js.map": "/frontLar/static/js/main.b86ba66f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f521d52.css",
+    "static/js/main.b86ba66f.js"
+  ]
+}
